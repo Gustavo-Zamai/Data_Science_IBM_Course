@@ -51,10 +51,12 @@
 🗄️ Topics and Algorithms:
 --
 
-- Regression
-- Data Visualization
-- Artificial Neural Networks
-- Neural Networks
-- Nearest Neighbor
-- Structured Data = Excel file, rows and columns
-- Unstructured Data = not tabular, texts, video, audio
+- Regression;
+- Data Visualization;
+- Artificial Neural Networks;
+- Neural Networks;
+- Nearest Neighbor;
+- Data could be in text not formatted, audio, video;
+- Structured Data = Excel file, rows and columns;
+- Unstructured Data = not tabular;
+
