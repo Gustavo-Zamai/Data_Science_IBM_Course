@@ -1,11 +1,6 @@
 ☁️ Cloud Computing, Deployment and Service Models
 --
 
-
-#### Describe cloud computing concepts:
-
-- 
-
 #### Define cloud deployment models and service models:
 
 - Deployments:
@@ -23,9 +18,9 @@
 #### Identify characteristics of cloud computing:
 
 - On-demand self-service;
--  Broad network access - trough mobile, desktops and laptops;
+- Network access - trough mobile, desktops and laptops;
 - Resource pooling - cost efficient;
-- Rapid elasticity - use what you need, increase or decrease, depends on costumers demand;
+- Elasticity - use what you need, increase or decrease, depends on costumers demand;
 - Measured service - pay for waht you use, or reserve to go;
 - Is about to using technology as a service, increase or decrease and pay for waht you use;
 - Change the way consumes compute services.
@@ -45,3 +40,39 @@
     - Veracity: quality and origin of data
     - Value: turn data into value
 
+---
+
+🧰 Big Data Processing Tools:
+--
+
+- Apache hadoop:
+    - distributed storage and processing of big data;
+    - no format requeirements for storing data;
+    - scalable and reliable storage;
+    - HDFS allowing parallel access to data across different nodes, clusters;
+    - HDFS built to detect faults and automatically recover;
+    - compability with a large variety of operating systems;
+
+- Apache Hive:
+    - data warehouse for data query and analysis;
+    - based on hadoop, stored dataset files in HDFS;
+    - suited for ETL, reporting and analysis;
+    - easy access to data via SQL;
+
+- Apache Spark:
+    - analytics framework for complex and real-time data analytics;
+    - ML, data integration and ETL;
+    - acces data in a large variety of data sources;
+    - in-memory processing to increase speed of computations;
+    - processes streaming data fast.
+---
+
+⛏️ Data Mining:
+--
+
+- Goal set: identify key questions;
+- Select data: identify data sources; 
+- Preprocess: clean the data; 
+- Transform: determine storage needs;
+- Data mine: determine methods, ML, and analyze;
+- Evaluate: assess outcomes, the efficienty of the algorithm and share results.
